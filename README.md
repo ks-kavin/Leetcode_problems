@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ks-kavin/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ks-kavin/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ks-kavin/Leetcode_problems/tree/master/1344-angle-between-hands-of-a-clock) |
+## Array
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/ks-kavin/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/ks-kavin/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
